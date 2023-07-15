@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations":
+    [ 
+        {
+            "name": "Debug",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "/mnt/c/msys64/home/lxuxer/Projectos/1/a.out",
+            "args": ["ddf6evw6g4f", "gtwthgdwthdwfteewhrtag6h4ffdhsd"], // Agrega tus argumentos aquí
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "/usr/bin/gcc"
+        }
+    ]
+}
